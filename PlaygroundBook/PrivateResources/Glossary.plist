@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>Learning Rate</key>
+		<dict>
+			<key>Definition</key>
+			<string>The size of the update steps to take during optimization loops</string>
+		</dict>
+		<key>Classification</key>
+		<dict>
+			<key>Definition</key>
+			<string>Predicting a categorical output.</string>
+		</dict>
+		<key>Accuracy</key>
+		<dict>
+			<key>Definition</key>
+			<string>Percentage of correct predictions made by the model.</string>
+		</dict>
+		<key>Outlier</key>
+		<dict>
+			<key>Definition</key>
+			<string>An observation that deviates significantly from other observations in the dataset.</string>
+		</dict>
+		<key>Dataset</key>
+		<dict>
+			<key>Definition</key>
+			<string>a collection of related sets of information that is composed of separate elements but can be manipulated as a unit by a computer.</string>
+		</dict>
+		<key>Model</key>
+		<dict>
+			<key>Definition</key>
+			<string>A data structure that stores a representation of a dataset (weights and biases).</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
